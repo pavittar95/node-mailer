@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "start": "node ./bin/www",
-    "build": "echo 'building'",
+    "nowlogin": "now login",
+    "nowlogout": "now logout",
     "deploy": "now --prod"
   },
   "dependencies": {
